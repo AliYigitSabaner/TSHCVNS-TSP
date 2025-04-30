@@ -11,4 +11,4 @@ Symmetric travelling salesman problems are solved in TSPLIB library. In order fo
 
 Architects of the code; 
 Ali Yigit Sabaner Balıkesir University, Department of Industrial Engineering
-Gurkan Ozturk Eskişehir Technical University, Department of Industrial Engineering
+and Gurkan Ozturk Eskişehir Technical University, Department of Industrial Engineering
